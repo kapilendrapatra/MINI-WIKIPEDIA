@@ -18,3 +18,4 @@ while(1):
     break
   res = wikipedia.summary(a)
   print(res)
+  print("Happy journey")
